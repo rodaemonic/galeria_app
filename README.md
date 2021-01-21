@@ -1,6 +1,6 @@
 # galeria_app
 
-A new Flutter project.
+Galeria hecha con flutter
 
 ## Getting Started
 
